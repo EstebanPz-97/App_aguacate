@@ -18,6 +18,6 @@ deploy:
   github-token: $GITHUB_TOKEN
   local-dir: dist/
   target-branch: gh-pages
-  commit_message: "deploy Proyecto "
+  commit_message: "deploy App_aguacates"
   on: 
     branch: master
